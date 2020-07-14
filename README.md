@@ -18,7 +18,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 - 💬 Ask me about :
      * **How is my life going? 😉**
      * **Python || Java || C/C++**
-     * **Mobile Development || Flutter || Front-End Development**
+     * **Mobile App Development || Flutter || Front-End Development**
 - 📫 How to reach me: 
      * **1. [LinkedIn](https://www.linkedin.com/in/mdarman187/)**
      * **2. [Instagram](https://www.instagram.com/mdarman_187)**
