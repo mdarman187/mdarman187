@@ -16,7 +16,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 - 🤔 I’m looking for help with **Getting Internships**
 - 🤝 I’m looking to collaborate on **any live project**
 - 💬 Ask me about :
-     * **How's my life going? 😉**
+     * **How is my life going? 😉**
      * **Python || Java || C/C++**
      * **Mobile Development || Flutter || Front-End Development**
 - 📫 How to reach me: 
