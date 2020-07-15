@@ -1,5 +1,4 @@
-### Hey !! 🙌
-### I am MD ARMAN 🤵
+### Hey !! I am MD ARMAN 🤵
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdarman187/)](https://www.linkedin.com/in/mdarman187/)
 [![Instagram Badge](https://img.shields.io/badge/-Arman-orange?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/mdarman_187/)](https://www.instagram.com/mdarman_187)
@@ -37,4 +36,9 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 - ⚡ Fun fact: 
      * **A living sarcastic soul with punches of humor 😂**
      * **Wicket-Keeper Batsman waiting to be in the field 🏏**
+     
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=mdarman187&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
