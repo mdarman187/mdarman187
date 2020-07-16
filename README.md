@@ -1,11 +1,15 @@
-### Hey !! I am MD ARMAN 🤵
+# Hey !! I am MD ARMAN 🤵
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdarman187/)](https://www.linkedin.com/in/mdarman187/)
 [![Instagram Badge](https://img.shields.io/badge/-Arman-orange?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/mdarman_187/)](https://www.instagram.com/mdarman_187)
 [![Facebook Badge](https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdarman187/)](https://www.facebook.com/mdarman187)
 [![Gmail Badge](https://img.shields.io/badge/-muhammadarman187@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadarman187@gmail.com)](mailto:muhammadarman187@gmail.com)
 
+### Work Profile :-
 
+ounder @ TECH(OX)**
+- * **Research Intern @ THE DEXTERITY GLOBAL GROUP**
+- * **Internshala Student Partner 16 and 18 @ INTERNSHALA**
 
 <!--
 **mdarman187/mdarman187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
