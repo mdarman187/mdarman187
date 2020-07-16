@@ -7,7 +7,7 @@
 
 ### Work Profile :-
 
-* **Co-Founder @ TECH(OX)
+* **Co-Founder @ TECH(OX)**
 * **Research Intern @ THE DEXTERITY GLOBAL GROUP**
 * **Internshala Student Partner 16 and 18 @ @INTERNSHALA**
 
