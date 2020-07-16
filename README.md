@@ -7,9 +7,9 @@
 
 ### Work Profile :-
 
-ounder @ TECH(OX)**
-- * **Research Intern @ THE DEXTERITY GLOBAL GROUP**
-- * **Internshala Student Partner 16 and 18 @ INTERNSHALA**
+* **Co-Founder @ TECH(OX)
+* **Research Intern @ THE DEXTERITY GLOBAL GROUP**
+* **Internshala Student Partner 16 and 18 @ @INTERNSHALA**
 
 <!--
 **mdarman187/mdarman187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
