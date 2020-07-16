@@ -19,7 +19,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 -->
-- 🤔 I’m looking for help with **Getting Internships**
+- 😊 I’m looking for help with **Getting Internships**
 - 🤝 I’m looking to collaborate on **any live project**
 - 💬 Ask me about :
      * **How is my life going? 😉**
@@ -37,7 +37,5 @@ Committed to strengthening my abilities and serving as a collaborative team pers
      * **A living sarcastic soul with punches of humor 😂**
      * **Wicket-Keeper Batsman waiting to be in the field 🏏**
      
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=mdarman187&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
