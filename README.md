@@ -1,9 +1,10 @@
 # Hey !! I am MD ARMAN 🤵
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=red&style=plastic" alt="arman" /> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdarman187/)](https://www.linkedin.com/in/mdarman187/)
-[![Instagram Badge](https://img.shields.io/badge/-Arman-orange?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/mdarman_187/)](https://www.instagram.com/mdarman_187)
-[![Facebook Badge](https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdarman187/)](https://www.facebook.com/mdarman187)
-[![Gmail Badge](https://img.shields.io/badge/-muhammadarman187@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadarman187@gmail.com)](mailto:muhammadarman187@gmail.com)
+
+
+
+
 
 ### Work Profile :-
 
@@ -32,10 +33,10 @@ Committed to strengthening my abilities and serving as a collaborative team pers
      * **Python || Java || C/C++**
      * **Mobile App Development || Flutter || Front-End Development**
 - 📫 How to reach me: 
-     * **1. [LinkedIn](https://www.linkedin.com/in/mdarman187/)**
-     * **2. [Instagram](https://www.instagram.com/mdarman_187)**
-     * **3. [Facebook](https://www.facebook.com/mdarman187)**
-     * **4. [Gmail](mailto:muhammadarman187@gmail.com)**
+     *  [![Linkedin Badge](https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdarman187/)](https://www.linkedin.com/in/mdarman187/)
+     * [![Instagram Badge](https://img.shields.io/badge/-Arman-orange?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/mdarman_187/)](https://www.instagram.com/mdarman_187)
+     * [![Facebook Badge](https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdarman187/)](https://www.facebook.com/mdarman187)
+     * [![Gmail Badge](https://img.shields.io/badge/-muhammadarman187@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadarman187@gmail.com)](mailto:muhammadarman187@gmail.com)
 - 😄 Pronouns: 
      * **An illusive coder**
      
