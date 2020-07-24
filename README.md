@@ -20,7 +20,7 @@
 ### Work Profile :-
 
 * **Founder and CEO @ [TECH(OX)](https://www.linkedin.com/company/tech-ox)**
-* **Research Intern @ [THE DEXTERITY GLOBAL GROUP](https://www.dexterityglobal.org)**
+* **Research Intern(Technology Sector) @ [THE DEXTERITY GLOBAL GROUP](https://www.dexterityglobal.org)**
 * **Member of Google Assistant Developer Community**
 * **Internshala Student Partner 16 and 18 @ INTERNSHALA**
 
