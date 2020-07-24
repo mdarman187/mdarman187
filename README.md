@@ -1,10 +1,20 @@
 # Hey !! I am MD ARMAN 🤵
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=red&style=plastic" alt="arman" /> </p>
-
-
-
-
-
+<a href="https://linkedin.com/in/mdarman187">
+  <img align="left" alt="Arman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/mdarman187">
+  <img align="left" alt="Arman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/mdarman187">
+  <img align="left" alt="Arman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/mdarman_187/">
+  <img align="left" alt="Arman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/mdarman187/">
+  <img align="left" alt="Arman's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 ### Work Profile :-
 
