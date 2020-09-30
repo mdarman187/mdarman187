@@ -19,8 +19,8 @@
 
 ### Work Profile :-
 
-* **Founder and CEO @ [TECHOX LEARNING](https://techoxlearning.web.app)**
-* **Former Research Intern(Technology Sector) @ [THE DEXTERITY GLOBAL GROUP](https://www.dexterityglobal.org)**
+* **Founder and CEO @ [TECHOX](https://techoxlearning.web.app)**
+* **Ex Research Intern(Technology Sector) @ [THE DEXTERITY GLOBAL GROUP](https://www.dexterityglobal.org)**
 * **Member of Google Assistant Developer Community**
 * **Internshala Student Partner 16 and 18 @ INTERNSHALA**
 
