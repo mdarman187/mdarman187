@@ -19,10 +19,9 @@
 
 ### Work Profile :-
 
-* **Founder and CEO @ [TECHOX](https://techoxlearning.web.app)**
+* **Founder and CEO @ [TECHOX](https://learning.techox.co.in)**
 * **Ex Research Intern(Technology Sector) @ [THE DEXTERITY GLOBAL GROUP](https://www.dexterityglobal.org)**
 * **Member of Google Assistant Developer Community**
-* **Internshala Student Partner 16 and 18 @ INTERNSHALA**
 
 
 <!--
@@ -30,14 +29,14 @@
 
 Here are some ideas to get you started:
 -->
-**A student with zeal to achieve the heights with regular hard work and self-improvement. 
+**A person with zeal to achieve the heights with regular hard work and self-improvement. 
 Proficient in various programming languages, android development, web development, software development, and communication skills.
 Committed to strengthening my abilities and serving as a collaborative team person.**
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 -->
-- 😊 I’m looking for help with **Getting Internships**
+- 😊 I’m looking for help with **Expanding my platform**
 - 🤝 I’m looking to collaborate on **any live project**
 - 💬 Ask me about :
      * **How is my life going? 😉**
