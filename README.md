@@ -19,7 +19,7 @@
 
 ### Work Profile :-
 
-* **Founder @ [TECHOX](https://learning.techox.co.in)**
+* **Founder @ [TECHOX](https://www.techox.co.in)**
 * **Ex Research Intern(Technology Sector) @ [THE DEXTERITY GLOBAL GROUP](https://www.dexterityglobal.org)**
 * **Member of Google Assistant Developer Community**
 
