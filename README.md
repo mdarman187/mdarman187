@@ -19,9 +19,6 @@
 
 ### Work Profile :-
 
-* **Co-Founder @ TECHOX**
-* **Assistant System Engineer @ TATA Consultancy Services**
-* **Academic Instructor @ Nalanda Business College**
 * **Ex Research Intern(Technology Sector) @ THE DEXTERITY GLOBAL GROUP**
 * **Member of Google Assistant Developer Community**
 
