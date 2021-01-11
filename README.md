@@ -20,6 +20,8 @@
 ### Work Profile :-
 
 * **Founder @ [TECHOX](https://www.techox.co.in)**
+* **Assistant System Engineer @ TATA Consultancy Services**
+* **Academic Instructor @ Nalanda Business College**
 * **Ex Research Intern(Technology Sector) @ [THE DEXTERITY GLOBAL GROUP](https://www.dexterityglobal.org)**
 * **Member of Google Assistant Developer Community**
 
@@ -39,6 +41,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 - 😊 I’m looking for help with **Expanding my platform**
 - 🤝 I’m looking to collaborate on **any live project**
 - 💬 Ask me about :
+     * **Mentoring & Guiding Youth**
      * **How is my life going? 😉**
      * **Python || Java || C/C++**
      * **Mobile App Development || Flutter || Front-End Development**
