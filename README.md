@@ -19,7 +19,7 @@
 
 ### Work Profile :-
 
-* **Founder @ [TECHOX](https://www.techox.co.in)**
+* **Co-Founder @ TECHOX**
 * **Assistant System Engineer @ TATA Consultancy Services**
 * **Academic Instructor @ Nalanda Business College**
 * **Ex Research Intern(Technology Sector) @ [THE DEXTERITY GLOBAL GROUP](https://www.dexterityglobal.org)**
