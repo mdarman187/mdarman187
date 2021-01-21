@@ -3,8 +3,8 @@
 <a href="https://linkedin.com/in/mdarman187">
   <img align="left" alt="Arman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/mdarman187">
-  <img align="left" alt="Arman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://twitter.com/mdarman_187">
+  <img align="left" alt="Arman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://t.me/mdarman187">
   <img align="left" alt="Arman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -19,7 +19,9 @@
 
 ### Work Profile :-
 
+* **Ex Python Backend Developer Intern @ Stepping Clouds**
 * **Ex Research Intern(Technology Sector) @ THE DEXTERITY GLOBAL GROUP**
+* **Ex Project Lead Developer Intern in Build With LetsUpgrade Project @ LetsUpgrade EdTech Pvt Ltd**
 * **Member of Google Assistant Developer Community**
 
 
@@ -35,8 +37,6 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 -->
-- 😊 I’m looking for help with **Expanding my platform**
-- 🤝 I’m looking to collaborate on **any live project**
 - 💬 Ask me about :
      * **Mentoring & Guiding Youth**
      * **How is my life going? 😉**
@@ -45,6 +45,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 - 📫 How to reach me: 
      *  [![Linkedin Badge](https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdarman187/)](https://www.linkedin.com/in/mdarman187/)
      * [![Instagram Badge](https://img.shields.io/badge/-Arman-orange?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/mdarman_187/)](https://www.instagram.com/mdarman_187)
+     * [![Twitter Badge](https://img.shields.io/badge/-Arman-orange?style=flat-square&logo=Twitter&logoColor=black&link=https://www.twitter.com/mdarman_187/)](https://www.twitter.com/mdarman_187)
      * [![Facebook Badge](https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdarman187/)](https://www.facebook.com/mdarman187)
      * [![Gmail Badge](https://img.shields.io/badge/-muhammadarman187@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadarman187@gmail.com)](mailto:muhammadarman187@gmail.com)
 - 😄 Pronouns: 
