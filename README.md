@@ -15,7 +15,7 @@
   <img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50" alt="Arman's Facebook" />
 </a>
 
-## Work Profile :-
+## 💻 Work Profile :-
 
 * **Ex Python Backend Developer Intern @ Stepping Clouds**
 * **Ex Research Intern(Technology Sector) @ THE DEXTERITY GLOBAL GROUP**
@@ -29,7 +29,7 @@
 Here are some ideas to get you started:
 -->
 
-## Personal Facts :-
+## 🤡 Personal Facts :-
 
 **A person with zeal to achieve the heights with regular hard work and self-improvement. 
 Proficient in various programming languages, android development, web development, software development, and communication skills.
