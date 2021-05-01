@@ -1,19 +1,16 @@
 # Hey !! I am MD ARMAN 🤵
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=red&style=plastic" alt="arman" /> </p>
 <a href="https://linkedin.com/in/mdarman187">
-  <img align="left" alt="Arman's Linkdein" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Arman's Linkdein" src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60" />
 </a>
 <a href="https://twitter.com/mdarman_187">
-  <img align="left" alt="Arman's Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/mdarman187">
-  <img align="left" alt="Arman's Telegram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Arman's Twitter" src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"  />
 </a>
 <a href="https://instagram.com/mdarman_187/">
-  <img align="left" alt="Arman's Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Arman's Instagram" src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"  />
 </a>
 <a href="https://www.facebook.com/mdarman187/">
-  <img align="left" alt="Arman's Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Arman's Facebook" src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"  />
 </a>
 <br>
 
