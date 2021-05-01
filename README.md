@@ -4,13 +4,14 @@
 <hr>
 
 
-# Hey, I'm [Md Arman!](https:////linkedin.com/in/mdarman187) 👋
+
+<h1 align="center">Hey, I'm <a href="https://linkedin.com/in/mdarman187">Md Arman  👋</a></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=blue&style=plastic" alt="arman" width="100" /> </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/mdarman187">
-  <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50" alt="Arman's Linkdein" />
+  <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50" alt="Arman's LinkedIn" />
 </a>
 <a href="https://twitter.com/mdarman_187">
   <img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="50" alt="Arman's Twitter" />
