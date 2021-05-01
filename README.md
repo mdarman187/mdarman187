@@ -1,25 +1,26 @@
 # Hey !! I am MD ARMAN 🤵
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=red&style=plastic" alt="arman" width="100" /> </p>
+
 <a href="https://linkedin.com/in/mdarman187">
-  <img align="left" alt="Arman's Linkdein" src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50" />
+  <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50" alt="Arman's Linkdein" />
 </a>
 <a href="https://twitter.com/mdarman_187">
-  <img align="left" alt="Arman's Twitter" src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="50"  />
+  <img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="50" alt="Arman's Twitter" />
 </a>
 <a href="https://instagram.com/mdarman_187/">
-  <img align="left" alt="Arman's Instagram" src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"  />
+  <img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50" alt="Arman's Instagram" />
 </a>
 <a href="https://www.facebook.com/mdarman187/">
-  <img align="left" alt="Arman's Facebook" src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50"  />
+  <img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50" alt="Arman's Facebook" />
 </a>
-<br>
 
 ## Work Profile :-
 
-> * **Ex Python Backend Developer Intern @ Stepping Clouds**
-> * **Ex Research Intern(Technology Sector) @ THE DEXTERITY GLOBAL GROUP**
-> * **Ex Project Lead Developer Intern in Build With LetsUpgrade Project @ LetsUpgrade EdTech Pvt Ltd**
-> * **Member of Google Assistant Developer Community**
+* **Ex Python Backend Developer Intern @ Stepping Clouds**
+* **Ex Research Intern(Technology Sector) @ THE DEXTERITY GLOBAL GROUP**
+* **Ex Project Lead Developer Intern in Build With LetsUpgrade Project @ LetsUpgrade EdTech Pvt Ltd**
+* **Member of Google Assistant Developer Community**
 
 
 <!--
