@@ -1,11 +1,8 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<hr>
 
-
-
-<h1 align="center">Hey, I'm <a href="https://linkedin.com/in/mdarman187">Md Arman  👋</a></h1>
+<h1 align="center">Hey, I'm <a href="https://linkedin.com/in/mdarman187">Md Arman</a> 👋</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=blue&style=plastic" alt="arman" width="100" /> </p>
 
