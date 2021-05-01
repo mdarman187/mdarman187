@@ -44,11 +44,18 @@ Committed to strengthening my abilities and serving as a collaborative team pers
      * **Python || Java || C/C++**
      * **Mobile App Development || Flutter || Front-End Development**
 - 📫 How to reach me: 
-     *  [![Linkedin Badge](https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdarman187/)](https://www.linkedin.com/in/mdarman187/)
-     * [![Instagram Badge](https://img.shields.io/badge/-Arman-orange?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/mdarman_187/)](https://www.instagram.com/mdarman_187)
-     * [![Twitter Badge](https://img.shields.io/badge/-Arman-orange?style=flat-square&logo=Twitter&logoColor=black&link=https://www.twitter.com/mdarman_187/)](https://www.twitter.com/mdarman_187)
+     *  [![Linkedin: mdarman187](https://img.shields.io/badge/-mdarman187-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdarman187/)](https://www.linkedin.com/in/mdarman187/)
+     * [![Instagram Badge](https://img.shields.io/badge/-Arman-orange?style=flat-square&logo=Instagram&logoColor=blue&link=https://www.instagram.com/mdarman_187/)](https://www.instagram.com/mdarman_187)
+     * [![Twitter: mdarman_187](https://img.shields.io/twitter/follow/mdarman_187?style=social)](https://twitter.com/mdarman_187)
+     * [![GitHub mdarman187](https://img.shields.io/github/followers/mdarman187?label=follow&style=social)](https://github.com/mdarman187)
      * [![Facebook Badge](https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdarman187/)](https://www.facebook.com/mdarman187)
      * [![Gmail Badge](https://img.shields.io/badge/-muhammadarman187@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadarman187@gmail.com)](mailto:muhammadarman187@gmail.com)
+
+
+
+[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+
+
 - 😄 Pronouns: 
      * **An illusive coder**
      
