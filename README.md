@@ -1,25 +1,25 @@
 # Hey !! I am MD ARMAN 🤵
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=red&style=plastic" alt="arman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=red&style=plastic" alt="arman" width="100" /> </p>
 <a href="https://linkedin.com/in/mdarman187">
-  <img align="left" alt="Arman's Linkdein" src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60" />
+  <img align="left" alt="Arman's Linkdein" src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50" />
 </a>
 <a href="https://twitter.com/mdarman_187">
-  <img align="left" alt="Arman's Twitter" src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"  />
+  <img align="left" alt="Arman's Twitter" src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="50"  />
 </a>
 <a href="https://instagram.com/mdarman_187/">
-  <img align="left" alt="Arman's Instagram" src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"  />
+  <img align="left" alt="Arman's Instagram" src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"  />
 </a>
 <a href="https://www.facebook.com/mdarman187/">
-  <img align="left" alt="Arman's Facebook" src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"  />
+  <img align="left" alt="Arman's Facebook" src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50"  />
 </a>
 <br>
 
-### Work Profile :-
+## Work Profile :-
 
-* **Ex Python Backend Developer Intern @ Stepping Clouds**
-* **Ex Research Intern(Technology Sector) @ THE DEXTERITY GLOBAL GROUP**
-* **Ex Project Lead Developer Intern in Build With LetsUpgrade Project @ LetsUpgrade EdTech Pvt Ltd**
-* **Member of Google Assistant Developer Community**
+> * **Ex Python Backend Developer Intern @ Stepping Clouds**
+> * **Ex Research Intern(Technology Sector) @ THE DEXTERITY GLOBAL GROUP**
+> * **Ex Project Lead Developer Intern in Build With LetsUpgrade Project @ LetsUpgrade EdTech Pvt Ltd**
+> * **Member of Google Assistant Developer Community**
 
 
 <!--
@@ -27,6 +27,8 @@
 
 Here are some ideas to get you started:
 -->
+---
+
 **A person with zeal to achieve the heights with regular hard work and self-improvement. 
 Proficient in various programming languages, android development, web development, software development, and communication skills.
 Committed to strengthening my abilities and serving as a collaborative team person.**
@@ -51,6 +53,8 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 - ⚡ Fun fact: 
      * **A living sarcastic soul with punches of humor 😂**
      * **Wicket-Keeper Batsman waiting to be in the field 🏏**
+
+---
     
 <a href="https://github.com/mdarman187">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarman187&theme=dark&hide_langs_below=1" />
