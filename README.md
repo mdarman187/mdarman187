@@ -47,8 +47,8 @@ Committed to strengthening my abilities and serving as a collaborative team pers
      *  [![Linkedin: mdarman187](https://img.shields.io/badge/-mdarman187-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdarman187/)](https://www.linkedin.com/in/mdarman187/)
      * [![Instagram: mdarman_187](https://img.shields.io/badge/-mdarman_187-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mdarman_187/)](https://www.instagram.com/mdarman_187)
      * [![Twitter: mdarman_187](https://img.shields.io/twitter/follow/mdarman_187?style=social)](https://twitter.com/mdarman_187)
-     * [![GitHub mdarman187](https://img.shields.io/github/followers/mdarman187?label=follow&style=social)](https://github.com/mdarman187)
-     * [![Facebook Badge](https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdarman187/)](https://www.facebook.com/mdarman187)
+     * [![GitHub: mdarman187](https://img.shields.io/github/followers/mdarman187?label=follow&style=social)](https://github.com/mdarman187)
+     * [![Facebook: mdarman187](https://img.shields.io/badge/-mdarman187-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mdarman187/)](https://www.facebook.com/mdarman187)
      * [![Gmail Badge](https://img.shields.io/badge/-muhammadarman187@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadarman187@gmail.com)](mailto:muhammadarman187@gmail.com)
 
 
