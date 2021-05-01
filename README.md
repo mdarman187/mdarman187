@@ -4,10 +4,11 @@
 <hr>
 
 
-#Hey, I'm [Md Arman!](https:////linkedin.com/in/mdarman187) 👋
+# Hey, I'm [Md Arman!](https:////linkedin.com/in/mdarman187) 👋
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=blue&style=plastic" alt="arman" width="100" /> </p>
 
+<p align="center">
 <a href="https://linkedin.com/in/mdarman187">
   <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50" alt="Arman's Linkdein" />
 </a>
@@ -20,6 +21,7 @@
 <a href="https://www.facebook.com/mdarman187/">
   <img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50" alt="Arman's Facebook" />
 </a>
+</p>
 
 ## 💻 Work Profile :
 
