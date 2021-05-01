@@ -1,6 +1,6 @@
-# Hey !! I am MD ARMAN 🤵
+# Hey, I'm [Md Arman!](https:////linkedin.com/in/mdarman187) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=red&style=plastic" alt="arman" width="100" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=blue&style=plastic" alt="arman" width="100" /> </p>
 
 <a href="https://linkedin.com/in/mdarman187">
   <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50" alt="Arman's Linkdein" />
@@ -15,7 +15,7 @@
   <img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50" alt="Arman's Facebook" />
 </a>
 
-## 💻 Work Profile :-
+## 💻 Work Profile :
 
 * **Ex Python Backend Developer Intern @ Stepping Clouds**
 * **Ex Research Intern(Technology Sector) @ THE DEXTERITY GLOBAL GROUP**
@@ -29,7 +29,7 @@
 Here are some ideas to get you started:
 -->
 
-## 🤡 Personal Facts :-
+## 🤡 Personal Facts :
 
 **A person with zeal to achieve the heights with regular hard work and self-improvement. 
 Proficient in various programming languages, android development, web development, software development, and communication skills.
@@ -55,6 +55,15 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 - ⚡ Fun fact: 
      * **A living sarcastic soul with punches of humor 😂**
      * **Wicket-Keeper Batsman waiting to be in the field 🏏**
+     
+## 💻 Languages and Tools:  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 ---
     
