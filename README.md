@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+
 # Hey, I'm [Md Arman!](https:////linkedin.com/in/mdarman187) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarman187&label=Views&color=blue&style=plastic" alt="arman" width="100" /> </p>
@@ -75,6 +80,7 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ---
     
