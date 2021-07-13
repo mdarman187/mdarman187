@@ -23,7 +23,7 @@
 
 ## 💻 Work Profile :
 
-* **System Engineer @ Tata Consultancy Services**
+* **Systems Engineer @ Tata Consultancy Services (Digital Unit)**
 * **Ex Python Backend Developer Intern @ Stepping Clouds**
 * **Ex Research Intern(Technology Sector) @ THE DEXTERITY GLOBAL GROUP**
 * **Ex Project Lead Developer Intern in Build With LetsUpgrade Project @ LetsUpgrade EdTech Pvt Ltd**
