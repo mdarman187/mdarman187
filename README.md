@@ -85,14 +85,25 @@ Committed to strengthening my abilities and serving as a collaborative team pers
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ---
-    
-## 📈 Github Statistics 
-<a href="https://github.com/mdarman187">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarman187&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/mdarman187">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdarman187&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="Arman's github stats"/>
-</a>
+
+## 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=mdarman187&theme=minimal"/>
+</p>
+
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdarman187&theme=vue"/>
+</p>
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdarman187&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdarman187&theme=vue" />
+</p>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 <div align="center">
 
